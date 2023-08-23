@@ -1,0 +1,25 @@
+2022-07-26 22:05:22,116 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2022-07-26 22:05:22,175 INFO o.a.j.JMeter: Loading user properties from: /Users/liyinchi/TestTool/apache-jmeter-5.2.1/bin/user.properties
+2022-07-26 22:05:22,176 INFO o.a.j.JMeter: Loading system properties from: /Users/liyinchi/TestTool/apache-jmeter-5.2.1/bin/system.properties
+2022-07-26 22:05:22,178 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2022-07-26 22:05:22,178 INFO o.a.j.JMeter: Version 5.2.1
+2022-07-26 22:05:22,178 INFO o.a.j.JMeter: java.version=1.8.0_181
+2022-07-26 22:05:22,178 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-07-26 22:05:22,178 INFO o.a.j.JMeter: os.name=Mac OS X
+2022-07-26 22:05:22,178 INFO o.a.j.JMeter: os.arch=x86_64
+2022-07-26 22:05:22,178 INFO o.a.j.JMeter: os.version=10.16
+2022-07-26 22:05:22,178 INFO o.a.j.JMeter: file.encoding=UTF8
+2022-07-26 22:05:22,179 INFO o.a.j.JMeter: java.awt.headless=null
+2022-07-26 22:05:22,179 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-07-26 22:05:22,179 INFO o.a.j.JMeter: Available Processors =8
+2022-07-26 22:05:22,185 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-07-26 22:05:22,185 INFO o.a.j.JMeter: JMeter  Locale=Chinese (China)
+2022-07-26 22:05:22,185 INFO o.a.j.JMeter: JMeterHome=/Users/liyinchi/TestTool/apache-jmeter-5.2.1
+2022-07-26 22:05:22,185 INFO o.a.j.JMeter: user.dir  =/Users/liyinchi/workspace/goland/go-gin-example
+2022-07-26 22:05:22,185 INFO o.a.j.JMeter: PWD       =/Users/liyinchi/workspace/goland/go-gin-example
+2022-07-26 22:05:22,186 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: liyinchideMacBook-Pro.local FullName: localhost
+2022-07-26 22:05:25,014 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2022-07-26 22:05:25,047 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2022-07-26 22:05:25,047 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2022-07-26 22:05:25,204 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-07-26 22:05:26,211 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=mac_os_x-5d8117220f5f56799373564504505402-gui
